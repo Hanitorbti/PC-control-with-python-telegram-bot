@@ -3,7 +3,7 @@ Hey. This bot can connect to your windows pc via telegram bot.
 
 for start:
 
--install needed pachages:
+-install needed packages:
   -telegram
   -python-telegram-bot
   -pandas
