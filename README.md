@@ -22,4 +22,4 @@ Optional and more Setting:
 -you should add your ID in 'super.users' to access bot setting. => (send 'my id' to bot to get your id)
 -you can add your info to 'info.txt' and see that on => setting\bot info
 
-![photo]([http://url/to/img.png](https://github.com/Hanitorbti/PC-control-with-python-telegram-bot/blob/main/Screenshot%20(8).png)https://github.com/Hanitorbti/PC-control-with-python-telegram-bot/blob/main/Screenshot%20(8).png)
+![photo](https://github.com/Hanitorbti/PC-control-with-python-telegram-bot/blob/main/Screenshot%20(8).png)
