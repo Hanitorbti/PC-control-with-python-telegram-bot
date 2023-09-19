@@ -21,3 +21,5 @@ Optional and more Setting:
 -change 'mpl_path.log' to your own Music directory.
 -you should add your ID in 'super.users' to access bot setting. => (send 'my id' to bot to get your id)
 -you can add your info to 'info.txt' and see that on => setting\bot info
+
+![plot](./PC-control-with-python-telegram-bot/Screenshot (8).png)
