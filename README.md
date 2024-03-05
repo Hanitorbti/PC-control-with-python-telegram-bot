@@ -5,7 +5,7 @@ for start:
 
 -install needed packages:
   -telegram
-  -python-telegram-bot
+  -python-telegram-bot == 13.14
   -pandas
   -psutil
   -pyautogui
