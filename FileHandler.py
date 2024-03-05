@@ -1,5 +1,4 @@
 def file_handler(name,mode = "r",txt="",line=""):
-    
     if name == "help":
         try:
             with open("help.txt","r") as file:
@@ -80,16 +79,16 @@ def file_handler(name,mode = "r",txt="",line=""):
                 elif mode == "w" or mode == "wb":
                     try:
                         fl.write(txt)
-                        return "ok"
+                        return name
                     except:
-                        return "ERR => can't write"
+                        raise Exception('error in writing file; mode = w,wb')
                     
                 elif mode == "a" or mode == "a+":
                     try:
                         fl.write(txt)
-                        return "ok"
+                        return name
                     except:
-                        return "ERR => can't write"
+                        raise Exception('error in writing file; mode = a,a+')
                     
                 else:
                     return "InputErr => the availble modes now are ['r','w','a','a+','rb','wb'] "
