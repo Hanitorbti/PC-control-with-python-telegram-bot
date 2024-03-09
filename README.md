@@ -11,7 +11,7 @@ for start:
   -pyautogui
   -cv2
   -getpass (if needed)
-  -os (if needed)
+  -os
   -subprocess (if needed)
 
 -for next step run 'main.ipynb' and wait for creating file
